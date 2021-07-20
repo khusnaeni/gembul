@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Server Ready . . .",
 
 
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
@@ -53,11 +53,11 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "40",
-"UNITY_TEST_MODE" : "true",
-
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4107441",
+"UNITY_TEST_MODE" : "false",
+ 
 "APPLOVIN_BANNER_ID" : "71f5fa",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e",
 
